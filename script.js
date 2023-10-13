@@ -5,6 +5,7 @@ function sortString(str) {
 
   // return str.split('');
   // return str.split('').sort();
+  
 }
 console.log(sortString(napis));
 
