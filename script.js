@@ -1,9 +1,10 @@
 napis = "Akademia108"
 function sortString(str) {
   // return str.split('').sort().join('');
-  // return str.split('').sort().join('');
+  return str.split('').sort().join("");
 
-  return str.split('');
+  // return str.split('');
+  // return str.split('').sort();
 }
 console.log(sortString(napis));
 
